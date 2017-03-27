@@ -7,7 +7,9 @@
 }
 @font-face {
 font-family: FontAwesome;
-src: url("../font/FontAwesome.otf") format("opentype");
+src: url("https://armasb.github.io/portfolio/font/FontAwesome.otf") format("opentype");
+font-family: Raleway;
+src: url("https://armasb.github.io/portfolio/font/raleway.otf") format("opentype");  
 }
 body {
 	font-family: 'Raleway', 'FontAwesome' sans-serif;
