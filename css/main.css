@@ -347,6 +347,7 @@ h4 {
 	list-style: none;
 	display: inline-block;
 	margin: 30px 10px 0 10px;
+    font-family: 'FontAwesome'
 }
 .socialbtn ul li a {
 	font-size: 30px;
