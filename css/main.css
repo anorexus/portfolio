@@ -5,7 +5,6 @@
 	font-size: 0;
 	text-align: center;
     font-family: 'Raleway','FontAwesome',sans-serif;
-    line-height: 22px;
 }
 body {
 	background: #f8f8f8;
@@ -96,6 +95,7 @@ p {
 	color: #454545;
 	max-width: 720px;
 	margin: 0 auto;
+    line-height: 22px;
 }
 p a {
 	font-size: 18px;
