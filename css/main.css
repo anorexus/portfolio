@@ -220,23 +220,23 @@ h4 {
 	background-size: cover;
 }
 .images#wusk {
-	background: url(wusk/wusk.jpg) no-repeat;
+	background: url(https://armasb.github.io/portfolio/wusk/wusk.jpg) no-repeat;
 	background-size: cover;
 }
 .images#payzing {
-	background: url(payzing/payzing.png) no-repeat;
+	background: url(https://armasb.github.io/portfolio/payzing/payzing.png) no-repeat;
 	background-size: cover;
 }
 .images#voxel {
-	background: url(voxel/voxel.png) no-repeat;
+	background: url(https://armasb.github.io/portfolio/voxel/voxel.png) no-repeat;
 	background-size: cover;
 }
 .images#upstart {
-	background: url(upstart/upstart.jpg) no-repeat;
+	background: url(https://armasb.github.io/portfolio/upstart/upstart.jpg) no-repeat;
 	background-size: cover;
 }
 #otherwork{
-	background: url(img/more.png) no-repeat;
+	background: url(https://armasb.github.io/portfolio/img/more.png) no-repeat;
 	background-position: bottom;
 	background-size: cover;
 	height: 400px;
