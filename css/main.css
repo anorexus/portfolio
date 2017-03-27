@@ -7,7 +7,7 @@
 }
 @font-face {
 font-family: FontAwesome;
-src: url("../font/FontAwesome.otf") format("opentype");
+src: url("font/FontAwesome.otf") format("opentype");
 }
 body {
 	font-family: 'Raleway', 'FontAwesome' sans-serif;
@@ -41,7 +41,7 @@ nav {
 	height: 30px;
 }
 #hero {
-	background: url(../img/background.jpg);
+	background: url(img/background.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 100%;
@@ -216,27 +216,27 @@ h4 {
 	margin-top: 50px;
 }
 .images#bildit {
-	background: url(../bildit/bildit.png) no-repeat;
+	background: url(bildit/bildit.png) no-repeat;
 	background-size: cover;
 }
 .images#wusk {
-	background: url(../wusk/wusk.jpg) no-repeat;
+	background: url(wusk/wusk.jpg) no-repeat;
 	background-size: cover;
 }
 .images#payzing {
-	background: url(../payzing/payzing.png) no-repeat;
+	background: url(payzing/payzing.png) no-repeat;
 	background-size: cover;
 }
 .images#voxel {
-	background: url(../voxel/voxel.png) no-repeat;
+	background: url(voxel/voxel.png) no-repeat;
 	background-size: cover;
 }
 .images#upstart {
-	background: url(../upstart/upstart.jpg) no-repeat;
+	background: url(upstart/upstart.jpg) no-repeat;
 	background-size: cover;
 }
 #otherwork{
-	background: url(../img/more.png) no-repeat;
+	background: url(img/more.png) no-repeat;
 	background-position: bottom;
 	background-size: cover;
 	height: 400px;
