@@ -216,7 +216,7 @@ h4 {
 	margin-top: 50px;
 }
 .images#bildit {
-	background: url(bildit/bildit.png) no-repeat;
+	background: url(/bildit/bildit.png) no-repeat;
 	background-size: cover;
 }
 .images#wusk {
